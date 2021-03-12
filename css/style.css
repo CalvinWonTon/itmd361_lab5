@@ -1,0 +1,60 @@
+#header{
+    color: white;
+    background-color: gray;
+    text-align: center;
+    font-size: 3em;
+    font-family: 'DotGothic16', sans-serif;
+    font-family: 'Righteous', cursive;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+
+#names{
+    font-weight: bold;
+}
+
+#images{
+    background: black;
+}
+
+body{
+    width: 100%;
+    background-color: black;
+    background-image: url(/images/stars.jpg);
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid white;
+    border-collapse: collapse;
+    color: white;
+    background-color: black;
+}
+
+th{
+    text-align: center;
+    padding: 5px;
+    border: 1px solid white;
+    border-collapse: collapse;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+td{
+    padding: 5px;
+    text-align: center;
+    border: 1px solid white;
+    border-collapse: collapse;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer{
+    color: white;
+    margin-top: 100px;
+}
+
+a{
+    color: orange;
+}
