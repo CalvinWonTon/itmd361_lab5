@@ -1,4 +1,4 @@
-h1{
+#header{
     color: white;
     background-color: gray;
     text-align: center;
@@ -9,7 +9,6 @@ h1{
 }
 
 body{
-    background-color: black;
     background-image: url(../images/stars.jpg);
 }
 
